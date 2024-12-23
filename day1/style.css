@@ -29,6 +29,7 @@ body {
     justify-content: center;
     align-items: center;
     margin-bottom: 60px;
+    gap: 6px;
   }
   
   #search-input {
